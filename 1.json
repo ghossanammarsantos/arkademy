@@ -1,0 +1,23 @@
+[
+	{
+		"name"    		: "Septian Feri Ferdinan",
+		"address" 		: "Jl. Kiaracondong, Bandung, West Java, Indonesia",
+		"hobbies" 		: [
+							"coding",
+							"reading",
+							"watch screencast coding tutorial"
+							],
+		"is_married"	: false,
+		"school"		:{
+					"highSchool" : "SMK Medikacom Bandung"
+						},
+		"skills"		: [ {
+					"skill1" : "HTML,CSS,JAVASCRIPT",
+					"skill2" : "Bootstrap",
+					"skill3" : "PHP,JAVA",
+					"skill4" : "MySQL",
+					"skill5" : "CodeIgniter",
+					"skill6" : "Rest API,GIT "
+							}]
+	}
+]
